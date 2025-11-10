@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 * 🎓 B.Tech in Computer Science @ *IIIT Bhopal (2023–2027)*
 * 💼 **Backend Developer Intern @ PearlThoughts**
 * 💻 Passionate about **building scalable APIs, data-driven systems, and AI-integrated platforms**
@@ -20,23 +20,23 @@
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nodejs,express,mongodb,mysql,postgres,redis,aws,git,github,html,css,tailwind,postman,nginx&perline=10" />
 </p>
 
 ---
 
-### 🧩 Featured Projects
+### Featured Projects
 * 🔹 [**CodeWinz**](https://github.com/Aayush132004/Codewinz.0) – AI-powered coding platform with contests, chat, and collaboration.
 * 🔹 [**Drug Detection Platform**](https://github.com/Aayush132004/CYN_TOOL) – Microservice app detecting illegal activity using ML.
 * 🔹 [**Scribe Booking Platform (Govt. of India)**](https://github.com/Aayush132004/HelpBlind) – Accessibility-first scribe booking system.
 
 ---
 
-### 📊 Stats & Analytics
+### GitHub Analytics
 <details>
-<summary><strong>Click to see my GitHub & LeetCode Stats</strong></summary>
+<summary><strong>Click to see my GitHub Stats</strong></summary>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aayush132004&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -45,14 +45,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush132004&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/AayushSharma82?theme=dark&font=Baloo&ext=heatmap" />
-</p>
 </details>
 
 ---
 
-### 🌍 Connect With Me
+### LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AayushSharma82?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+---
+
+### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush-sharma-9ad1/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:aayushsharma0132004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
@@ -62,29 +66,29 @@
 
 ---
 
-### 🏆 Achievements & Highlights
+### Achievements & Highlights
 * 🏅 **4th Place** – *National CyberShield Hackathon’25 (MP Police)*
 * 🥉 **3rd Place** – *Hack The Future 2.0* (Tula’s Institute, IIT Roorkee & IIT Ropar)
 * 💡 **Top 2% (AIR 19,024)** in *JEE Advanced 2023*
-* 🧩 Solved **500+ DSA problems** across *LeetCode* and *GeeksforGeeks*
+* 🧩 Solved **500+ DSA problems** across *LeetCode* and *GeeksforGeks*
 
 ---
 
-### 🐍 GitHub Contribution Graph
+### GitHub Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aayush132004/Aayush132004/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-### 👀 Visitor Count
+### Visitor Count
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aayush132004&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 💬 Quote
+### Quote
 > “Code. Collaborate. Create — because innovation starts with curiosity.”
 
 ---
