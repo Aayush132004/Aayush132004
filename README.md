@@ -1,7 +1,7 @@
 # Aayush Sharma
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=College+Student;Seeking+SDE-1+Roles;Backend+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer+(MERN%2BNextJS);Agentic+AI+Developer;Distributed+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,6 @@
 
 ### About Me
 
-- **Backend Developer Intern** at [PearlThoughts](https://pearlthoughts.com)
 - **Web Developer Lead** at **XPLOIT** (IIIT Bhopal)
 - College student seeking SDE-1 roles. I love building backend services, working with databases, and solving complex systems problems.
 - Focused on Node.js, databases (SQL & NoSQL), message brokers, and designing robust API systems.
@@ -65,7 +64,6 @@
 - 🏆 **4th Place** — National CyberShield Hackathon 2025
 - 🥉 **Finalist** — Hack The Future 2.0 Hackathon
 - 💻 **800+ Problems Solved** — Strong DSA fundamentals on LeetCode and other platforms.
-- 🚀 Lead structural upgrades to internal tooling during internship at PearlThoughts.
 
 ---
 
